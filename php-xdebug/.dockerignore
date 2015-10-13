@@ -1,3 +1,6 @@
 # docker files
 Dockerfile
 .dockerignore
+
+# sublime
+Xdebug.sublime-settings
