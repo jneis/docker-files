@@ -1,0 +1,8 @@
+activemq:
+    build: .
+    container_name: activemq
+    tty: true
+    stdin_open: true
+    ports:
+        - "8161:8161"
+        - "61616:61616"
